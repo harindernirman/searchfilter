@@ -1,0 +1,41 @@
+.container00
+{  
+   display: flex; 
+   
+   
+}
+.container1
+{
+  
+  flex: 0 0 44%;
+  height: 200px;
+  width: 35%;
+  background-color: brown;
+  margin: 20px;
+  padding: 20px;
+  color: white;
+}
+.col
+{
+  border-radius: 2%;
+  background-color: brown;
+  color: white;
+}
+
+.container2
+{
+  flex: 1;
+  height: 200px;
+  width: 35%;
+  background-color: brown;
+  margin: 20px;
+  padding: 20px;
+  color: white;
+}
+
+h1{
+    text-align: center;
+  }
+
+
+ 
